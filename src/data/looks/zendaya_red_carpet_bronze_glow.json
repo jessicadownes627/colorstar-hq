@@ -1,0 +1,187 @@
+{
+  "id": "zendaya_red_carpet_bronze_glow",
+  "celebrity": "Zendaya",
+  "lookName": "Red Carpet Bronze Glow",
+  "lookImage": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=1200&q=80",
+  "description": "Molten lids, sculpted cheekbones, and a cocoa ombré lip built for cameras—Zendaya's signature bronze glam decoded.",
+  "products": {
+    "face": [
+      {
+        "brand": "Pat McGrath Labs",
+        "name": "Sublime Perfection Foundation",
+        "shade": "Medium Deep 20",
+        "category": "complexion",
+        "purchases": {
+          "sephora": { "price": "$69", "url": "https://www.sephora.com/product/sublime-perfection-foundation-P444023" },
+          "ulta": null,
+          "amazon": { "price": "$85", "url": "https://www.amazon.com/dp/B07W3GNZHM" },
+          "brandSite": { "price": "$69", "url": "https://www.patmcgrath.com/products/sublime-perfection-foundation" }
+        },
+        "dupes": [
+          {
+            "brand": "L'Oreal Paris",
+            "name": "True Match Lumi Healthy Luminous",
+            "shade": "C6",
+            "price": "$13",
+            "url": "https://www.amazon.com/dp/B009WZ6YT2",
+            "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Charlotte Tilbury",
+        "name": "Hollywood Flawless Filter",
+        "shade": "5 Tan",
+        "category": "glow enhancer",
+        "purchases": {
+          "sephora": { "price": "$49", "url": "https://www.sephora.com/product/hollywood-flawless-filter-P439188" },
+          "ulta": { "price": "$49", "url": "https://www.ulta.com/p/hollywood-flawless-filter-pimprod2015744" },
+          "amazon": { "price": "$58", "url": "https://www.amazon.com/dp/B0844G7ZL6" },
+          "brandSite": { "price": "$49", "url": "https://www.charlottetilbury.com/us/product/hollywood-flawless-filter" }
+        },
+        "dupes": [
+          {
+            "brand": "e.l.f.",
+            "name": "Halo Glow Liquid Filter",
+            "shade": "5 Medium Tan",
+            "price": "$14",
+            "url": "https://www.ulta.com/p/halo-glow-liquid-filter-pimprod2037045",
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "eyes": [
+      {
+        "brand": "Tom Ford",
+        "name": "Eye Color Quad",
+        "shade": "Honeymoon",
+        "category": "eyeshadow",
+        "purchases": {
+          "sephora": { "price": "$90", "url": "https://www.sephora.com/product/tom-ford-eye-color-quad-P455640" },
+          "ulta": null,
+          "amazon": { "price": "$88", "url": "https://www.amazon.com/dp/B01N7KUEZ0" },
+          "brandSite": { "price": "$90", "url": "https://www.tomford.com/eye-color-quad/T56R.html" }
+        },
+        "dupes": [
+          {
+            "brand": "Morphe",
+            "name": "9V Vintage Rose Artistry Palette",
+            "shade": "Bronze",
+            "price": "$15",
+            "url": "https://www.ulta.com/p/9v-vintage-rose-artistry-palette-pimprod2021341",
+            "image": "https://images.unsplash.com/photo-1512207736890-6ffed8a84e8c?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Fenty Beauty",
+        "name": "Flyliner Longwear Liquid Eyeliner",
+        "shade": "Cuz I'm Black",
+        "category": "eyeliner",
+        "purchases": {
+          "sephora": { "price": "$24", "url": "https://www.sephora.com/product/flyliner-longwear-liquid-eyeliner-P433098" },
+          "ulta": null,
+          "amazon": { "price": "$28", "url": "https://www.amazon.com/dp/B07D7S8X9Z" },
+          "brandSite": { "price": "$24", "url": "https://www.fentybeauty.com/flyliner-longwear-liquid-eyeliner/FB30005.html" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Epic Ink Liner",
+            "shade": "Brown",
+            "price": "$10",
+            "url": "https://www.ulta.com/p/epic-ink-liner-pimprod2011381",
+            "image": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "brows": [
+      {
+        "brand": "Benefit Cosmetics",
+        "name": "Precisely, My Brow Pencil",
+        "shade": "4.5",
+        "category": "brows",
+        "purchases": {
+          "sephora": { "price": "$26", "url": "https://www.sephora.com/product/benefit-precisely-my-brow-pencil-P409408" },
+          "ulta": { "price": "$26", "url": "https://www.ulta.com/p/precisely-my-brow-pencil-waterproof-eyebrow-definer-pimprod2012064" },
+          "amazon": { "price": "$29", "url": "https://www.amazon.com/dp/B01I6M8LNE" },
+          "brandSite": { "price": "$26", "url": "https://www.benefitcosmetics.com/us/en/product/precisely-my-brow" }
+        },
+        "dupes": [
+          {
+            "brand": "ColourPop",
+            "name": "Precision Brow Pencil",
+            "shade": "Brunette",
+            "price": "$8",
+            "url": "https://colourpop.com/products/precision-brow-pencil",
+            "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "lips": [
+      {
+        "brand": "Lancôme",
+        "name": "Le Lip Liner",
+        "shade": "Ideal",
+        "category": "lip liner",
+        "purchases": {
+          "sephora": { "price": "$29", "url": "https://www.sephora.com/product/le-lip-liner-P379552" },
+          "ulta": null,
+          "amazon": { "price": "$24", "url": "https://www.amazon.com/dp/B00JSKPDDW" },
+          "brandSite": { "price": "$29", "url": "https://www.lancome-usa.com/makeup/lips/lip-liner/le-lip-liner/LAN61.html" }
+        },
+        "dupes": [
+          {
+            "brand": "Maybelline",
+            "name": "Color Sensational Lip Liner",
+            "shade": "Totally Toffee",
+            "price": "$8",
+            "url": "https://www.ulta.com/p/color-sensational-shaping-lip-liner-pimprod2021735",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Fenty Beauty",
+        "name": "Gloss Bomb Heat",
+        "shade": "Hot Chocolit",
+        "category": "lip gloss",
+        "purchases": {
+          "sephora": { "price": "$26", "url": "https://www.sephora.com/product/fenty-beauty-by-rihanna-gloss-bomb-heat-universal-lip-luminizer-plumper-P474401" },
+          "ulta": null,
+          "amazon": { "price": "$30", "url": "https://www.amazon.com/dp/B09B8ZT6WI" },
+          "brandSite": { "price": "$26", "url": "https://www.fentybeauty.com/gloss-bomb-heat-universal-lip-luminizer-plumper/FB50120.html" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Fat Oil Lip Drip",
+            "shade": "Missed Call",
+            "price": "$9",
+            "url": "https://www.ulta.com/p/fat-oil-lip-drip-pimprod2043417",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": ["bronze", "runway", "glow", "smolder"],
+  "toneCompatibility": {
+    "fair": false,
+    "light": true,
+    "medium": true,
+    "tan": true,
+    "deep": true
+  },
+  "premium": {
+    "isPremiumLook": true,
+    "premiumNotes": "Members get back-camera lighting diagrams and color-grading tips.",
+    "unlockFeatures": {
+      "personalizedShades": true,
+      "undertoneTips": true
+    }
+  }
+}

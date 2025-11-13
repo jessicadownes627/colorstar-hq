@@ -1,0 +1,187 @@
+{
+  "id": "marilyn_soft_classic_glam",
+  "celebrity": "Marilyn Monroe",
+  "lookName": "Soft Classic Glam",
+  "lookImage": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?auto=format&fit=crop&w=1200&q=80",
+  "description": "Creamy satin skin, lifted doe eyes, and the iconic blue-based red lip inspired by Marilyn's public-domain studio glam.",
+  "products": {
+    "face": [
+      {
+        "brand": "NARS",
+        "name": "Sheer Glow Foundation",
+        "shade": "Deauville",
+        "category": "complexion",
+        "purchases": {
+          "sephora": { "price": "$47", "url": "https://www.sephora.com/product/sheer-glow-foundation-P247356" },
+          "ulta": { "price": "$47", "url": "https://www.ulta.com/p/sheer-glow-foundation-pimprod2019941" },
+          "amazon": { "price": "$45", "url": "https://www.amazon.com/dp/B00KCTGA3M" },
+          "brandSite": { "price": "$47", "url": "https://www.narscosmetics.com/USA/sheer-glow-foundation/0607845060121.html" }
+        },
+        "dupes": [
+          {
+            "brand": "Maybelline",
+            "name": "Fit Me Dewy + Smooth Foundation",
+            "shade": "120",
+            "price": "$9",
+            "url": "https://www.amazon.com/dp/B004J52L6S",
+            "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Westman Atelier",
+        "name": "Baby Cheeks Blush Stick",
+        "shade": "Petal",
+        "category": "blush",
+        "purchases": {
+          "sephora": { "price": "$48", "url": "https://www.sephora.com/product/baby-cheeks-blush-stick-P442255" },
+          "ulta": null,
+          "amazon": null,
+          "brandSite": { "price": "$48", "url": "https://www.westman-atelier.com/products/baby-cheeks" }
+        },
+        "dupes": [
+          {
+            "brand": "Rare Beauty",
+            "name": "Stay Vulnerable Melting Blush",
+            "shade": "Nearly Neutral",
+            "price": "$22",
+            "url": "https://www.sephora.com/product/rare-beauty-by-selena-gomez-stay-vulnerable-melting-cream-blush-P467502",
+            "image": "https://images.unsplash.com/photo-1501426026826-31c667bdf23d?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "eyes": [
+      {
+        "brand": "MAC Cosmetics",
+        "name": "Eye Shadow",
+        "shade": "Vanilla",
+        "category": "eyeshadow",
+        "purchases": {
+          "sephora": null,
+          "ulta": { "price": "$23", "url": "https://www.ulta.com/p/eye-shadow-pan-pimprod2016789" },
+          "amazon": { "price": "$20", "url": "https://www.amazon.com/dp/B005X4DSPE" },
+          "brandSite": { "price": "$23", "url": "https://www.maccosmetics.com/product/13840/363/products/makeup/eye-shadow/eye-shadow" }
+        },
+        "dupes": [
+          {
+            "brand": "ColourPop",
+            "name": "Pressed Powder Shadow",
+            "shade": "Hear Me Out",
+            "price": "$5",
+            "url": "https://colourpop.com/products/hear-me-out",
+            "image": "https://images.unsplash.com/photo-1512207736890-6ffed8a84e8c?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Stila",
+        "name": "Stay All Day Waterproof Liquid Eye Liner",
+        "shade": "Dark Brown",
+        "category": "eyeliner",
+        "purchases": {
+          "sephora": { "price": "$24", "url": "https://www.sephora.com/product/stay-all-day-waterproof-liquid-eye-liner-P253818" },
+          "ulta": { "price": "$24", "url": "https://www.ulta.com/p/stay-all-day-waterproof-liquid-eye-liner-pimprod2009109" },
+          "amazon": { "price": "$22", "url": "https://www.amazon.com/dp/B0039UT2GE" },
+          "brandSite": { "price": "$24", "url": "https://www.stilacosmetics.com/products/stay-all-day-waterproof-liquid-eye-liner" }
+        },
+        "dupes": [
+          {
+            "brand": "Essence",
+            "name": "Super Fine Waterproof Eyeliner",
+            "shade": "Brown",
+            "price": "$4",
+            "url": "https://www.ulta.com/p/superfine-waterproof-eyeliner-pen-pimprod2015164",
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "brows": [
+      {
+        "brand": "Anastasia Beverly Hills",
+        "name": "Brow Wiz",
+        "shade": "Taupe",
+        "category": "brows",
+        "purchases": {
+          "sephora": { "price": "$25", "url": "https://www.sephora.com/product/perfect-brow-pencil-P126908" },
+          "ulta": { "price": "$25", "url": "https://www.ulta.com/p/brow-wiz-ultra-slim-pencil-pimprod2020144" },
+          "amazon": { "price": "$23", "url": "https://www.amazon.com/dp/B00ANH0R5E" },
+          "brandSite": { "price": "$25", "url": "https://www.anastasiabeverlyhills.com/products/brow-wiz" }
+        },
+        "dupes": [
+          {
+            "brand": "e.l.f.",
+            "name": "Ultra Precise Brow Pencil",
+            "shade": "Taupe",
+            "price": "$6",
+            "url": "https://www.ulta.com/p/ultra-precise-brow-pencil-pimprod2036069",
+            "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "lips": [
+      {
+        "brand": "Bésame Cosmetics",
+        "name": "Classic Color Lipstick",
+        "shade": "Red Hot Red",
+        "category": "lipstick",
+        "purchases": {
+          "sephora": null,
+          "ulta": null,
+          "amazon": { "price": "$28", "url": "https://www.amazon.com/dp/B00U6VYQCQ" },
+          "brandSite": { "price": "$28", "url": "https://besamecosmetics.com/products/red-hot-red-lipstick" }
+        },
+        "dupes": [
+          {
+            "brand": "Revlon",
+            "name": "Super Lustrous Lipstick",
+            "shade": "Fire & Ice",
+            "price": "$10",
+            "url": "https://www.amazon.com/dp/B000143XXA",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "MAC Cosmetics",
+        "name": "Lip Pencil",
+        "shade": "Cherry",
+        "category": "lip liner",
+        "purchases": {
+          "sephora": null,
+          "ulta": { "price": "$25", "url": "https://www.ulta.com/p/lip-pencil-pimprod2016320?sku=2285336" },
+          "amazon": { "price": "$21", "url": "https://www.amazon.com/dp/B0007MHTQ6" },
+          "brandSite": { "price": "$25", "url": "https://www.maccosmetics.com/product/13852/322/products/makeup/lips/lip-pencil" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Slim Lip Pencil",
+            "shade": "Hot Red",
+            "price": "$5",
+            "url": "https://www.ulta.com/p/slim-lip-pencil-pimprod2007070",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": ["vintage", "cat eye", "red lip", "bridal"],
+  "toneCompatibility": {
+    "fair": true,
+    "light": true,
+    "medium": true,
+    "tan": false,
+    "deep": false
+  },
+  "premium": {
+    "isPremiumLook": false,
+    "premiumNotes": "Includes downloadable Marilyn face chart for HD shoots.",
+    "unlockFeatures": {
+      "personalizedShades": false,
+      "undertoneTips": true
+    }
+  }
+}

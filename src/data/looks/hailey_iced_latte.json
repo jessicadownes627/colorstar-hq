@@ -1,0 +1,187 @@
+{
+  "id": "hailey_iced_latte",
+  "celebrity": "Hailey Bieber",
+  "lookName": "Iced Latte Makeup",
+  "lookImage": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?auto=format&fit=crop&w=1200&q=80",
+  "description": "Bronzed espresso tones, creamy blush draping, and a latte foam lip oil—the exact stack Hailey wears in the iced latte trend.",
+  "products": {
+    "face": [
+      {
+        "brand": "Makeup By Mario",
+        "name": "SurrealSkin Foundation",
+        "shade": "11N",
+        "category": "complexion",
+        "purchases": {
+          "sephora": { "price": "$48", "url": "https://www.sephora.com/product/makeup-by-mario-surrealskin-foundation-P500972" },
+          "ulta": null,
+          "amazon": { "price": "$58", "url": "https://www.amazon.com/dp/B0BNWPNY88" },
+          "brandSite": { "price": "$48", "url": "https://makeupbymario.com/products/surrealskin-foundation" }
+        },
+        "dupes": [
+          {
+            "brand": "L'Oreal Paris",
+            "name": "True Match Super-Blendable Foundation",
+            "shade": "N4",
+            "price": "$14",
+            "url": "https://www.ulta.com/p/true-match-super-blendable-foundation-pimprod2023725",
+            "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Saie",
+        "name": "Dew Blush",
+        "shade": "Cutie",
+        "category": "blush",
+        "purchases": {
+          "sephora": { "price": "$25", "url": "https://www.sephora.com/product/saie-dew-blush-liquid-cheek-flush-P474243" },
+          "ulta": null,
+          "amazon": null,
+          "brandSite": { "price": "$25", "url": "https://saiehello.com/products/dew-blush" }
+        },
+        "dupes": [
+          {
+            "brand": "Flower Beauty",
+            "name": "Blush Bomb Color Drops",
+            "shade": "Cinnamon Crush",
+            "price": "$11",
+            "url": "https://www.ulta.com/p/blush-bomb-color-drops-pimprod2006568",
+            "image": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "eyes": [
+      {
+        "brand": "Kosas",
+        "name": "10-Second Eye Gel Watercolor",
+        "shade": "Heat",
+        "category": "eyeshadow",
+        "purchases": {
+          "sephora": { "price": "$15", "url": "https://www.sephora.com/product/10-second-eye-gel-watercolor-P417222" },
+          "ulta": null,
+          "amazon": { "price": "$21", "url": "https://www.amazon.com/dp/B0CHRNCD7M" },
+          "brandSite": { "price": "$15", "url": "https://kosas.com/products/10-second-eye" }
+        },
+        "dupes": [
+          {
+            "brand": "e.l.f.",
+            "name": "Liquid Metallic Eyeshadow",
+            "shade": "Bronze",
+            "price": "$6",
+            "url": "https://www.ulta.com/p/liquid-metallic-eyeshadow-pimprod2035637",
+            "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Benefit Cosmetics",
+        "name": "Roller Lash Mascara",
+        "shade": "Black Brown",
+        "category": "mascara",
+        "purchases": {
+          "sephora": { "price": "$29", "url": "https://www.sephora.com/product/roller-lash-curling-mascara-P392248" },
+          "ulta": { "price": "$29", "url": "https://www.ulta.com/p/roller-lash-curling-lifting-mascara-pimprod2009603" },
+          "amazon": { "price": "$30", "url": "https://www.amazon.com/dp/B00T33PEQC" },
+          "brandSite": { "price": "$29", "url": "https://www.benefitcosmetics.com/us/en/product/roller-lash" }
+        },
+        "dupes": [
+          {
+            "brand": "L'Oreal Paris",
+            "name": "Voluminous Brown Balm Mascara",
+            "shade": "Black Brown",
+            "price": "$13",
+            "url": "https://www.ulta.com/p/voluminous-brown-balm-mascara-pimprod2038022",
+            "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "brows": [
+      {
+        "brand": "Anastasia Beverly Hills",
+        "name": "Brow Freeze Styling Wax",
+        "shade": "Universal",
+        "category": "brows",
+        "purchases": {
+          "sephora": { "price": "$23", "url": "https://www.sephora.com/product/brow-freeze-styling-wax-P468417" },
+          "ulta": { "price": "$23", "url": "https://www.ulta.com/p/brow-freeze-styling-wax-pimprod2015417" },
+          "amazon": { "price": "$28", "url": "https://www.amazon.com/dp/B08TMHWV4J" },
+          "brandSite": { "price": "$23", "url": "https://www.anastasiabeverlyhills.com/products/brow-freeze" }
+        },
+        "dupes": [
+          {
+            "brand": "Got2b",
+            "name": "Glued 4 Brows & Edges",
+            "shade": "Clear",
+            "price": "$8",
+            "url": "https://www.ulta.com/p/glued-for-brows-edges-2-in-1-gel-pimprod2029530",
+            "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ],
+    "lips": [
+      {
+        "brand": "MAC Cosmetics",
+        "name": "Lip Pencil",
+        "shade": "Cork",
+        "category": "lip liner",
+        "purchases": {
+          "sephora": null,
+          "ulta": { "price": "$25", "url": "https://www.ulta.com/p/lip-pencil-pimprod2016320" },
+          "amazon": { "price": "$24", "url": "https://www.amazon.com/dp/B0001530VG" },
+          "brandSite": { "price": "$25", "url": "https://www.maccosmetics.com/product/13852/322/products/makeup/lips/lip-pencil" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Line Loud Lip Pencil",
+            "shade": "Total Baller",
+            "price": "$8",
+            "url": "https://www.ulta.com/p/line-loud-lip-pencil-pimprod2028967",
+            "image": "https://images.unsplash.com/photo-1504274066651-8d31a536b11a?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Rhode",
+        "name": "Peptide Lip Tint",
+        "shade": "Espresso",
+        "category": "lip oil",
+        "purchases": {
+          "sephora": null,
+          "ulta": null,
+          "amazon": null,
+          "brandSite": { "price": "$16", "url": "https://rhodeskin.com/products/peptide-lip-tint-espresso" }
+        },
+        "dupes": [
+          {
+            "brand": "Milani",
+            "name": "Keep It Full Maxx Lip Plumper",
+            "shade": "Espresso Shot",
+            "price": "$12",
+            "url": "https://www.ulta.com/p/keep-it-full-maxx-plumping-lip-lacquer-pimprod2037683",
+            "image": "https://images.unsplash.com/photo-1502481851512-e9e2529bfbf9?auto=format&fit=crop&w=220&q=60"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": ["latte makeup", "bronzed", "clean girl", "soft smoky"],
+  "toneCompatibility": {
+    "fair": true,
+    "light": true,
+    "medium": true,
+    "tan": true,
+    "deep": true
+  },
+  "premium": {
+    "isPremiumLook": true,
+    "premiumNotes": "Includes Hailey's facial massage order and skin prep timer.",
+    "unlockFeatures": {
+      "personalizedShades": true,
+      "undertoneTips": true
+    }
+  }
+}

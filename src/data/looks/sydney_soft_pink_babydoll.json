@@ -1,0 +1,187 @@
+{
+  "id": "sydney_soft_pink_babydoll",
+  "celebrity": "Sydney Sweeney",
+  "lookName": "Soft Pink Baby-Doll Glam",
+  "lookImage": "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?auto=format&fit=crop&w=1200&q=80",
+  "description": "Lit-from-within skin, cotton-candy blush, rose-petal lids, and a vinyl pink lip—Sydney's viral baby-doll look recreated with exact products and pro dupes.",
+  "products": {
+    "face": [
+      {
+        "brand": "Armani Beauty",
+        "name": "Luminous Silk Foundation",
+        "shade": "5.5",
+        "category": "complexion",
+        "purchases": {
+          "sephora": { "price": "$69", "url": "https://www.sephora.com/product/luminous-silk-foundation-P393401" },
+          "ulta": { "price": "$69", "url": "https://www.ulta.com/p/luminous-silk-perfect-glow-flawless-foundation-pimprod2054507" },
+          "amazon": { "price": "$69", "url": "https://www.amazon.com/dp/B07ST7ZLX2" },
+          "brandSite": { "price": "$69", "url": "https://www.giorgioarmanibeauty-usa.com/makeup/foundation/luminous-silk-foundation/" }
+        },
+        "dupes": [
+          {
+            "brand": "L'Oreal Paris",
+            "name": "True Match Lumi Healthy Luminous Makeup",
+            "shade": "N3",
+            "price": "$13",
+            "url": "https://www.amazon.com/dp/B009WZ6ZTK",
+            "image": "https://images.unsplash.com/photo-1500839941678-aae14dbfae9a?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Rare Beauty",
+        "name": "Soft Pinch Liquid Blush",
+        "shade": "Hope",
+        "category": "blush",
+        "purchases": {
+          "sephora": { "price": "$23", "url": "https://www.sephora.com/product/rare-beauty-by-selena-gomez-soft-pinch-liquid-blush-P97989728" },
+          "ulta": null,
+          "amazon": { "price": "$30", "url": "https://www.amazon.com/dp/B0B5MQC3H3" },
+          "brandSite": { "price": "$23", "url": "https://www.rarebeauty.com/products/soft-pinch-liquid-blush" }
+        },
+        "dupes": [
+          {
+            "brand": "Milani",
+            "name": "Cheek Kiss Liquid Blush",
+            "shade": "Pink Flirt",
+            "price": "$11",
+            "url": "https://www.ulta.com/p/cheek-kiss-liquid-blush-pimprod2022370",
+            "image": "https://images.unsplash.com/photo-1501426026826-31c667bdf23d?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      }
+    ],
+    "eyes": [
+      {
+        "brand": "Patrick Ta",
+        "name": "Major Dimension III Rose Eyeshadow Palette",
+        "shade": "Rose",
+        "category": "eyeshadow",
+        "purchases": {
+          "sephora": { "price": "$70", "url": "https://www.sephora.com/product/patrick-ta-major-dimension-iii-rose-eyeshadow-palette-P505454" },
+          "ulta": null,
+          "amazon": null,
+          "brandSite": { "price": "$70", "url": "https://patrickta.com/products/major-dimension-iii-rose" }
+        },
+        "dupes": [
+          {
+            "brand": "ColourPop",
+            "name": "Nude Mood Palette",
+            "shade": "Warm Pink",
+            "price": "$14",
+            "url": "https://colourpop.com/products/nude-mood",
+            "image": "https://images.unsplash.com/photo-1512207736890-6ffed8a84e8c?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Kaja",
+        "name": "Beauty Bento Bouncy Eyeshadow Trio",
+        "shade": "Rosewater",
+        "category": "shimmer topper",
+        "purchases": {
+          "sephora": { "price": "$26", "url": "https://www.sephora.com/product/beauty-bento-bouncy-eyeshadow-trio-P435268" },
+          "ulta": null,
+          "amazon": { "price": "$26", "url": "https://www.amazon.com/dp/B07W4Y2BZC" },
+          "brandSite": { "price": "$26", "url": "https://kajabeauty.com/products/beauty-bento" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Ultimate Glow Shots",
+            "shade": "Love Lagoon",
+            "price": "$10",
+            "url": "https://www.ulta.com/p/ultimate-glow-shots-liquid-eyeshadow-pimprod2038457",
+            "image": "https://images.unsplash.com/photo-1490114538077-0a7f8cb49891?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      }
+    ],
+    "brows": [
+      {
+        "brand": "Refy",
+        "name": "Brow Sculpt",
+        "shade": "Clear",
+        "category": "brows",
+        "purchases": {
+          "sephora": { "price": "$24", "url": "https://www.sephora.com/product/brow-sculpt-set-P475758" },
+          "ulta": null,
+          "amazon": { "price": "$28", "url": "https://www.amazon.com/dp/B0BS2H8BBW" },
+          "brandSite": { "price": "$24", "url": "https://refybeauty.com/products/brow-sculpt" }
+        },
+        "dupes": [
+          {
+            "brand": "e.l.f.",
+            "name": "Brow Lift",
+            "shade": "Universal",
+            "price": "$6",
+            "url": "https://www.ulta.com/p/brow-lift-pimprod2036245",
+            "image": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      }
+    ],
+    "lips": [
+      {
+        "brand": "Charlotte Tilbury",
+        "name": "Lip Cheat Lip Liner",
+        "shade": "Pillow Talk Medium",
+        "category": "lip liner",
+        "purchases": {
+          "sephora": { "price": "$25", "url": "https://www.sephora.com/product/lip-cheat-lip-liner-P433526" },
+          "ulta": { "price": "$25", "url": "https://www.ulta.com/p/lip-cheat-lip-liner-pimprod2005020" },
+          "amazon": { "price": "$32", "url": "https://www.amazon.com/dp/B01MXKEV2Y" },
+          "brandSite": { "price": "$25", "url": "https://www.charlottetilbury.com/us/product/lip-cheat-pillow-talk-medium" }
+        },
+        "dupes": [
+          {
+            "brand": "NYX",
+            "name": "Slide On Lip Pencil",
+            "shade": "Sugar Glass",
+            "price": "$8",
+            "url": "https://www.ulta.com/p/slide-on-lip-pencil-pimprod2014053",
+            "image": "https://images.unsplash.com/photo-1504270997636-07ddfbd48945?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      },
+      {
+        "brand": "Dior",
+        "name": "Lip Glow Oil",
+        "shade": "Pink",
+        "category": "lip gloss",
+        "purchases": {
+          "sephora": { "price": "$40", "url": "https://www.sephora.com/product/dior-lip-glow-oil-P454145" },
+          "ulta": null,
+          "amazon": { "price": "$43", "url": "https://www.amazon.com/dp/B082QKWN71" },
+          "brandSite": { "price": "$40", "url": "https://www.dior.com/en_us/beauty/products/c001000024-dior-addict-lip-glow-oil" }
+        },
+        "dupes": [
+          {
+            "brand": "e.l.f.",
+            "name": "Glow Reviver Lip Oil",
+            "shade": "Pink Quartz",
+            "price": "$8",
+            "url": "https://www.ulta.com/p/glow-reviver-lip-oil-pimprod2064851",
+            "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=200&q=60"
+          }
+        ]
+      }
+    ]
+  },
+  "tags": ["pink blush", "glossy lip", "romantic", "soft glam"],
+  "toneCompatibility": {
+    "fair": true,
+    "light": true,
+    "medium": true,
+    "tan": true,
+    "deep": false
+  },
+  "premium": {
+    "isPremiumLook": false,
+    "premiumNotes": "Free routine with complexion layering tips.",
+    "unlockFeatures": {
+      "personalizedShades": false,
+      "undertoneTips": true
+    }
+  }
+}
