@@ -1,0 +1,42 @@
+{
+  "id": "yungblud_rockstage_smoky",
+  "celebrity": "Yungblud",
+  "lookName": "Rockstage Smoky Wing",
+  "lookImage": "https://images.unsplash.com/photo-1504593811423-6dd665756598?auto=format&fit=crop&w=1200&q=80",
+  "description": "Live-show smoky wing inspired by Yungblud's tour glam—sharp gel liner, diffused edges, and stage-proof wear.",
+  "products": {
+    "eyes": [
+      {
+        "brand": "Bobbi Brown",
+        "name": "Long-Wear Gel Eyeliner",
+        "shade": "Panther",
+        "category": "eyeliner",
+        "verifiedSource": "Confirmed by @adamburrell – IG 5/22/24",
+        "verificationLevel": 1,
+        "purchases": {
+          "sephora": { "price": "$32", "url": "https://www.sephora.com/product/long-wear-gel-eyeliner-P270543" },
+          "ulta": { "price": "$32", "url": "https://www.ulta.com/p/long-wear-gel-eyeliner-pimprod2003659" },
+          "amazon": { "price": "$32", "url": "https://www.amazon.com/dp/B001KYQH98" },
+          "brandSite": null
+        },
+        "dupes": []
+      }
+    ]
+  },
+  "tags": ["rock", "smoky", "liner", "performance"],
+  "toneCompatibility": {
+    "fair": true,
+    "light": true,
+    "medium": true,
+    "tan": true,
+    "deep": true
+  },
+  "premium": {
+    "isPremiumLook": false,
+    "premiumNotes": "",
+    "unlockFeatures": {
+      "personalizedShades": false,
+      "undertoneTips": false
+    }
+  }
+}
